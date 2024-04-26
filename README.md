@@ -6,7 +6,7 @@ This project is a content-based movie recommender system. It uses various featur
 ## Data
 The data used in this project is a DataFrame with 4803 entries and 24 columns. Each entry represents a movie, and the columns represent various features of the movie such as cast, crew, budget, revenue, director, release year, and production companies.
 
-Click <a href = "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata" here </a> to get the dataset.
+Click <a href = "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata"> here </a> to get the dataset.
 
 ## Features
 - **MovieID**: A unique ID provided by TMDb for each title.
